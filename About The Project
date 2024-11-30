@@ -1,0 +1,11 @@
+# Stock-PricePrediction
+Stock Price Prediction Model
+This project focuses on building a stock price prediction model using machine learning techniques in Python. The goal was to predict future stock prices based on historical data, employing a variety of libraries including NumPy, Pandas, Scikit-learn, and Matplotlib.
+
+Key Features:
+Data Collection & Preprocessing: Used historical stock data and cleaned the dataset for use in machine learning models.
+Linear Regression Model: Applied linear regression to predict future stock prices based on historical trends and data.
+Feature Selection & Hyperparameter Tuning: Enhanced model accuracy by selecting relevant features and tuning hyperparameters.
+Visualization: Visualized stock price trends and model performance using Matplotlib, providing intuitive insights into the results.
+Model Evaluation: Evaluated the model using standard metrics to assess prediction accuracy.
+The project demonstrates a practical application of machine learning in finance and provides insights into stock price forecasting using Python.
